@@ -1,6 +1,6 @@
 # EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND
 
-DATE :
+DATE :17-04-2023
 
 AIM :
 
@@ -11,6 +11,7 @@ PROGRAM :
 
 
 OUTPUT :
+![4b](https://github.com/lokesh-khanna/EX-7/assets/119606216/88217698-16f5-4380-b04a-98febf6e1699)
 
 
 RESULT :
